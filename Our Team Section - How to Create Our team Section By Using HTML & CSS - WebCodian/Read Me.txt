@@ -1,0 +1,10 @@
+Our Team Section - How to Create Our team Section By Using HTML & CSS - WebCodian
+
+In this project you will find the stuff related. How you can create a team section of a photographic
+website where you find the profile of some models with a small and equal height.
+
+When you will move your cursorr on any of the profile. That profile will expand to its original size
+and rest of the profile will shrinkall of the processes will run into a very smooth way and looks very
+ pleasing and attractive.
+
+If you liked this effect then share you experience on our Facebook page down below 👉 https://www.facebook.com/webcodian
